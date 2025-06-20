@@ -97,6 +97,34 @@
         "contactEmail": "zuhair@bizsoftcare.com",
         "contactPhone": "01857646222"
       }
+    },
+    {
+      "id": "48f9",
+      "title": "Soluta voluptate est",
+      "type": "Remote",
+      "location": "In sit eveniet et c",
+      "description": "Consequatur Quas do",
+      "salary": "$70K - 80K",
+      "company": {
+        "name": "Wilkins and Hinton Plc",
+        "description": "Duis facere eu unde ",
+        "contactEmail": "rafyx@mailinator.com",
+        "contactPhone": "+1 (842) 759-5274"
+      }
+    },
+    {
+      "id": "aa43",
+      "title": "Quae deserunt lorem ",
+      "type": "Full-Time",
+      "location": "Ad magnam ad facere ",
+      "description": "Odio possimus volup",
+      "salary": "$80K - 90K",
+      "company": {
+        "name": "Conner and Valenzuela Inc",
+        "description": "Esse voluptatem ape",
+        "contactEmail": "caza@mailinator.com",
+        "contactPhone": "+1 (806) 357-5007"
+      }
     }
   ]
 }
